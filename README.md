@@ -3,7 +3,7 @@
 🌱 Passionate about Machine Learning, Education, and Software Engineering  
 📚 Currently studying/researching: Machine Learning, Artificial Intelligence and Backend Development  
 💡 Open to collaboration in Machine Learning and Artificial Intelligence
-📫 Reach me: sintasitinuriah23@gmail.com, (Sinta Siti Nuriah)[inkedin.com/in/sintasitinuriah/]
+📫 Reach me: sintasitinuriah23@gmail.com, [Linkedin: Sinta Siti Nuriah](inkedin.com/in/sintasitinuriah/)
 
 ---
 
@@ -40,6 +40,6 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sintasitinuriah&show_icons=true&theme=gruvbox_light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sintasitinuriah&layout=compact&theme=gruvbox_light)
