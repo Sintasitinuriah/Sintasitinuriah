@@ -3,6 +3,7 @@
 🌱 Passionate about Machine Learning, Education, and Software Engineering  
 📚 Currently studying/researching: Machine Learning, Artificial Intelligence and Backend Development  
 💡 Open to collaboration in Machine Learning and Artificial Intelligence
+
 📫 Reach me: sintasitinuriah23@gmail.com, [Linkedin: Sinta Siti Nuriah](inkedin.com/in/sintasitinuriah/)
 
 ---
